@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="45" height="45"/>
-<img src="" alt="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
@@ -45,23 +45,17 @@ Here are some ideas to get you started:
 
 
           
-<--
-<img src="" alt="" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>
-<img src="" alt="" width="45" height="45"/>
--->
 
-       
-          
-         
-          
 
-           
+                  
           
 </p>
 
 <!--
 **7ashiorkor7/7ashiorkor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="" alt="" width="45" height="45"/>
+<img src="" alt="" width="45" height="45"/>
+<img src="" alt="" width="45" height="45"/>
+<img src="" alt="" width="45" height="45"/>
+<img src="" alt="" width="45" height="45"/>
 -->
