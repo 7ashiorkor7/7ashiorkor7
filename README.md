@@ -12,7 +12,7 @@
 - My Masters Thesis
   
 ## 🌱 I’m currently learning 
--
+- Python for data science
 
 ## 💬 Ask me about
 - data science, volunteering, mentorship, and tech community building.
