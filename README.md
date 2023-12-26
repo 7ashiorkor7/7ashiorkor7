@@ -17,7 +17,7 @@
 ## 💬 Ask me about
 - data science, volunteering, mentorship and tech community building.
 
-## 📫 let's connect: 
+## 📫 Let's connect: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
 [Twitter](https://twitter.com/N_Ashiorkor)
 [Instagram](https://www.instagram.com/n_ashiorkor_n)
@@ -55,6 +55,9 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
+
+### Naa Ashiorkor Nortey's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/>
 
 <!--
 **7ashiorkor7/7ashiorkor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
