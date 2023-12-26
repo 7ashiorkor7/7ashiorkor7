@@ -15,7 +15,7 @@
 - Python for data science
 
 ## 💬 Ask me about
-- data science, volunteering, mentorship, and tech community building.
+- data science, volunteering, mentorship and tech community building.
 
 ## 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
