@@ -52,6 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="45" height="45"/>
 
+[![Naa Ashiorkor Nortey's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ashiorkor7)](https://github.com/7ashiorkor/github-readme-stats)
 
           
 
