@@ -18,7 +18,7 @@
 - data science, volunteering, mentorship, and tech community building.
 
 ## 📫 How to reach me: 
-[Twitter](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
+[LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
 [Twitter](https://twitter.com/N_Ashiorkor)
 [Instagram](https://www.instagram.com/n_ashiorkor_n)
 
