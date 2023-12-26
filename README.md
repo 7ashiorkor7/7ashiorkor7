@@ -11,6 +11,13 @@
 ## 💬 Ask me about
 - data science, volunteering, mentorship, and tech community building.
 
+## 📫 How to reach me: 
+[Twitter](https://twitter.com/N_Ashiorkor)
+
+[LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
+
+[Instagram](https://www.instagram.com/n_ashiorkor_n)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
