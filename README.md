@@ -50,14 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="45" height="45"/>
-
-[![Naa Ashiorkor Nortey's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ashiorkor7)](https://github.com/7ashiorkor/github-readme-stats)
-
-          
-
-
-                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="45" height="45"/>                            
           
 </p>
 
@@ -74,4 +67,6 @@
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+
+[![Naa Ashiorkor Nortey's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ashiorkor7)](https://github.com/7ashiorkor/github-readme-stats)
 -->
