@@ -18,11 +18,8 @@
 - data science, volunteering, mentorship, and tech community building.
 
 ## 📫 How to reach me: 
-<i class="ci ci-instagram ci-3x"></i>
-<a href="https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/"><img src="https://user-images.githubusercontent.com/60604704/146801065-cea3c678-8254-4ef8-b51c-dd9f0c3fff08.png" alt="Naa Ashiorkor Nortey | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/N_Ashiorkor"><img src="https://user-images.githubusercontent.com/60604704/146802264-80928758-c9f4-4086-893b-e92b378c30cd.png" alt="Naa Ashiorkor Nortey | Twitter" width="21px"/></a>
-
-
+[Twitter](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
+[Twitter](https://twitter.com/N_Ashiorkor)
 [Instagram](https://www.instagram.com/n_ashiorkor_n)
 
 
