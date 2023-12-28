@@ -14,6 +14,9 @@
 ## 🌱 I’m currently learning 
 - Python for data science
 
+## 🌱 I’m currently reading
+- Atomic Habits by James Clear
+
 ## 💬 Ask me about
 - data science, volunteering, mentorship and tech community building.
 
