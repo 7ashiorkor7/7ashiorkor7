@@ -9,7 +9,7 @@
 
 
 ## 🔭 I’m currently working on 
-- My Masters Thesis
+- My Masters Thesis in Differential Mass Spectrometry
   
 ## 🌱 I’m currently learning 
 - Python for data science
