@@ -9,16 +9,16 @@
 
 
 ## 🔭 I’m currently working on 
-- My Masters Thesis in Differential Mass Spectrometry
+The Kids' Speech project is under the Future Experts Program by Demola and the City of Tampere. It aims to explore the possibilities of voice-controlled interfaces for preschool children and create concepts where the children can play with the sounds they make.
   
 ## 🌱 I’m currently learning 
-- Python for data science
+- Deep learning
 
 ## 🌱 I’m currently reading
-- Atomic Habits by James Clear
+- The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington
 
 ## 💬 Ask me about
-- data science, volunteering, mentorship and tech community building.
+- data science, volunteering, hackathons, mentorship and tech community building.
 
 ## 📫 Let's connect: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
