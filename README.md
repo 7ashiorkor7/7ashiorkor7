@@ -12,7 +12,7 @@
 The Kids' Speech project is under the Future Experts Program by Demola and the City of Tampere. It aims to explore the possibilities of voice-controlled interfaces for preschool children and create concepts where the children can play with the sounds they make.
   
 ## 🌱 I’m currently learning 
-- Deep learning
+- Data Engineering
 
 ## 🌱 I’m currently reading
 - The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington
