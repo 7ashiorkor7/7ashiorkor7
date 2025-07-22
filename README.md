@@ -59,8 +59,8 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
 
-### Naa Ashiorkor Nortey's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/>
+<!-- ### Naa Ashiorkor Nortey's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/> -->
 
 <!--
 **7ashiorkor7/7ashiorkor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
