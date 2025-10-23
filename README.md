@@ -5,11 +5,12 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
+## 💬 Ask me about
+- data science, volunteering, hackathons, mentorship and tech community building.
 
 
-
-## 🔭 I’m currently working on 
-The Kids' Speech project is under the Future Experts Program by Demola and the City of Tampere. It aims to explore the possibilities of voice-controlled interfaces for preschool children and create concepts where the children can play with the sounds they make.
+<!-- ## 🔭 I’m currently working on 
+The Kids' Speech project is under the Future Experts Program by Demola and the City of Tampere. It aims to explore the possibilities of voice-controlled interfaces for preschool children and create concepts where the children can play with the sounds they make. -->
   
 ## 🌱 I’m currently learning 
 - Data Engineering
@@ -17,8 +18,22 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 ## 🌱 I’m currently reading
 - The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington
 
-## 💬 Ask me about
-- data science, volunteering, hackathons, mentorship and tech community building.
+## Speaking Engagements
+<details open>
+  <summary><b>2025</b></summary>
+
+  -  **[Helsinki Python October Meetup at Zalando)]([https://europython.eu/2025](https://www.linkedin.com/posts/helsinki-python_welcome-to-our-next-meetup-on-wednesday-activity-7382374675680497664-vQcd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3vXkgB7XNaDL6gIyd4EAxRE9uQTgsu-xk)** — *“Python Meets the Senses: Making Sense of Complex Sensor Data”*  
+  
+  -  **[Beginner's Orientation at EuroPython 2025](https://ep2025.europython.eu/session/beginner-s-orientation)** 
+</details>
+
+<details>
+  <summary><b>2024</b></summary>
+
+  -  **[PyLadiesCon 2024](https://www.linkedin.com/posts/pyladiescon_pyladiescon-womenintech-python-activity-7269732082463952896-1w2z/)** — *“Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech”*  
+</details>
+
+
 
 ## 📫 Let's connect: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
