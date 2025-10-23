@@ -5,8 +5,8 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
-## 💬 Ask me about
-- data science, volunteering, hackathons, mentorship and tech community building.
+- I love solving problems with data 
+- Ask me about data science, volunteering, hackathons, mentorship, open source and tech community building.
 
 
 <!-- ## 🔭 I’m currently working on 
@@ -15,10 +15,10 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 ## 🌱 I’m currently learning 
 - Data Engineering
 
-## 🌱 I’m currently reading
-- The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington
+<!--## 🌱 I’m currently reading
+- The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington-->
 
-## Awards & Recognition
+## Awards & Recognitions
 
 -  **[Best Supporting Lead Award - Meta Developer Circle](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-devcaccra-thankyou-activity-7014742225368584192-vdgo/)**  
   *In recognition of my continued support of my peers within the Meta Developer Circles Leads global community in 2022.*
@@ -108,8 +108,8 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
 
-<!-- ### Naa Ashiorkor Nortey's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/> -->
+### Naa Ashiorkor Nortey's GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/> 
 
 <!--
 **7ashiorkor7/7ashiorkor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
