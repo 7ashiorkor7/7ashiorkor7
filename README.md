@@ -18,21 +18,55 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 ## 🌱 I’m currently reading
 - The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington
 
+## Awards & Recognition
+
+-  **[Best Supporting Lead Award - Meta Developer Circle](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-devcaccra-thankyou-activity-7014742225368584192-vdgo/)**  
+  *In recognition of my continued support of my peers within the Meta Developer Circles Leads global community in 2022.*
+-  **[Spark AR Creator Days Organizers Award - Meta Developer Circle](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-devcaccra-thankyou-activity-7014742225368584192-vdgo/)**  
+  *In recognition of my leadership in hosting Spark AR Creator Days in 2022*
+-  **[Community Resilence Award - Meta Developer Circle](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-devcaccra-thankyou-activity-7014742225368584192-vdgo/)**  
+  *In recognition of my resilient and continued leadership of Meta Developer Circle Accra in 2022*
+-  **[Community Growth Award - Meta Developer Circle](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-devcaccra-thankyou-activity-7014742225368584192-vdgo/)**  
+  *In recognition of my leadership and driving community growth for the Meta Developer Circle Accra in 2022*
+   
+
 ## Speaking Engagements
+
 <details open>
   <summary><b>2025</b></summary>
 
-  -  **[Helsinki Python October Meetup at Zalando)]([https://europython.eu/2025](https://www.linkedin.com/posts/helsinki-python_welcome-to-our-next-meetup-on-wednesday-activity-7382374675680497664-vQcd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3vXkgB7XNaDL6gIyd4EAxRE9uQTgsu-xk)** — *“Python Meets the Senses: Making Sense of Complex Sensor Data”*  
+  -  **[Helsinki Python October Meetup at Zalando](https://www.linkedin.com/posts/helsinki-python_welcome-to-our-next-meetup-on-wednesday-activity-7382374675680497664-vQcd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3vXkgB7XNaDL6gIyd4EAxRE9uQTgsu-xk)** — *“Python Meets the Senses: Making Sense of Complex Sensor Data”*  
   
-  -  **[Beginner's Orientation at EuroPython 2025](https://ep2025.europython.eu/session/beginner-s-orientation)** 
+  -  **[Beginner's Orientation at EuroPython 2025](https://ep2025.europython.eu/session/beginner-s-orientation)**
+  -  Moderator for **[Python: the Documentary" screening and Q&A at EuroPython 2025](https://www.linkedin.com/posts/cult-repo_had-a-great-time-at-europython-last-week-activity-7352955536138514433-WJJX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3vXkgB7XNaDL6gIyd4EAxRE9uQTgsu-xk)** 
 </details>
 
 <details>
   <summary><b>2024</b></summary>
 
-  -  **[PyLadiesCon 2024](https://www.linkedin.com/posts/pyladiescon_pyladiescon-womenintech-python-activity-7269732082463952896-1w2z/)** — *“Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech”*  
+  -  **[PyLadiesCon 2024](https://www.linkedin.com/posts/pyladiescon_pyladiescon-womenintech-python-activity-7269732082463952896-1w2z/)** — *“Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech”*
+  -  **[PyLadies Panel at PyConDE & PyData Berlin 2024](https://pretalx.com/pyconde-pydata-2024/talk/BFYUUJ/)** — *“ Reflecting Within: Challenging Narratives in Tech Feminism”*
+  -  **[International Women's Day Celebration with PyLadies Ghana](https://www.linkedin.com/feed/update/urn:li:activity:7188589514242633728/)** — *“The PyLady's Journey: Empowering conversations on tech inclusion”*
 </details>
 
+ <details>
+  <summary><b>2023</b></summary>
+
+  - **[International Women's Day Celebration with PyLadies Ghana](https://www.linkedin.com/posts/pythonghana_pyladiesghana-iwd2023-activity-7039937966563041280-qEQI/)** — *“DigitAll: Innovation and Technology for gender equality”*
+  - Moderator for **[International Women's Day Celebration with The Literacy Impact Programme](https://www.linkedin.com/feed/update/urn:li:activity:7041440798868918272/)** — *“Hear her story: Conversations with phenomenal women”*
+</details>
+
+<details>
+  <summary><b>2022</b></summary>
+
+  -  Moderator for **[International Women's Day Celebration with Meta Developer Circle–Accra](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_meta-developercircle-womenintech-activity-6906340337963667456-AzEz/)** — *“Creating a diverse, equitable and inclusive environment in tech for all”*
+</details>
+
+<details>
+  <summary><b>2021</b></summary>
+
+  -  **[Twitter Spaces with Ivy Barley](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_datascience-technology-skills-activity-6859127653132197888-jtv4/)** — *“In Demand Tools and Skills for Data Science”*
+</details>
 
 
 ## 📫 Let's connect: 
