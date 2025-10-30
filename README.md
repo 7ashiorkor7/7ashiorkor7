@@ -5,15 +5,17 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
-- I love solving problems with data 
+- I have the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics, the list is endless(exaggeration intended). Currently, I am focused on data science with some exploration of data engineering and software engineering here and there.
+- I love solving problems with any element in technology I can get hold of, such as data. Trust me to mine treasure out of the messiest, unstructured data on the planet.
+- I am currently building PyLadies Tampere with 2 amazing ladies to empower women to thrive and lead in the Python community and technology at large. 
 - Ask me about data science, volunteering, hackathons, mentorship, open source and tech community building.
 
 
 <!-- ## 🔭 I’m currently working on 
 The Kids' Speech project is under the Future Experts Program by Demola and the City of Tampere. It aims to explore the possibilities of voice-controlled interfaces for preschool children and create concepts where the children can play with the sounds they make. -->
   
-## 🌱 I’m currently learning 
-- Data Engineering
+<!--## 🌱 I’m currently learning 
+- Data Engineering -->
 
 <!--## 🌱 I’m currently reading
 - The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months by Brian P. Moran and Michael Lennington-->
@@ -74,7 +76,7 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 [Twitter](https://twitter.com/N_Ashiorkor)
 [Instagram](https://www.instagram.com/n_ashiorkor_n)
 
-
+<!--
 <h2> 🚀 &nbsp;Some Tools and Programming Languages I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -105,7 +107,7 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="45" height="45"/>                            
           
 </p>
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
 
 ### Naa Ashiorkor Nortey's GitHub Stats
