@@ -5,7 +5,7 @@
 />
 
 ### Hi there, I am Naa Ashiorkor Nortey 👋
-- I have the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics, the list is endless(exaggeration intended). Currently, I am focused on data science with some exploration of data engineering and software engineering here and there.
+- I have had the opportunity to explore different areas of technology, from software engineering to mobile app development to User Interface and User Experience Design to IT consulting to data science to business analytics, the list is endless(exaggeration intended). Currently, I am focused on data science with some exploration of data engineering and software engineering here and there.
 - I love solving problems with any element in technology I can get hold of, such as data. Trust me to mine treasure out of the messiest, unstructured data on the planet.
 - I am currently building PyLadies Tampere with 2 amazing ladies to empower women to thrive and lead in the Python community and technology at large. 
 - Ask me about data science, volunteering, hackathons, mentorship, open source and tech community building.
