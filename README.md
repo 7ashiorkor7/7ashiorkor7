@@ -70,6 +70,24 @@ The Kids' Speech project is under the Future Experts Program by Demola and the C
   -  **[Twitter Spaces with Ivy Barley](https://www.linkedin.com/posts/naa-ashiorkor-nortey-408240120_datascience-technology-skills-activity-6859127653132197888-jtv4/)** — *“In Demand Tools and Skills for Data Science”*
 </details>
 
+## Volunteering & Open Source Contribution
+
+### NumFOCUS DISC Steering Committee Member  
+[NumFOCUS Diversity & Inclusion in Scientific Computing (DISC)](https://numfocus.org/programs/diversity-inclusion)
+A community-driven initiative that works to make open-source scientific computing more inclusive and accessible.  
+
+> The committee’s mission is to broaden the participation and inclusion of underrepresented groups in the NumFOCUS ecosystem, guide diversity, equity, and inclusion initiatives, and build networks of support and collaboration** across open-source communities. Through this role, I contribute to shaping programs and strategies that foster belonging and representation across global open-source projects.
+
+
+---
+
+### PyLadies Tampere Organizer  
+Organizer of PyLadies Tampere, a local community empowering women who code in Python through hands-on workshops, mentorship, and networking events.  
+
+---
+
+### EuroPython Contributor  
+Contributor and community volunteer at EuroPython.
 
 ## 📫 Let's connect: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
