@@ -9,7 +9,7 @@
 - Currently, I am focused on data science with some exploration of data engineering and software engineering here and there.
 - I am passionate about applying my skills in **educational technology**, **health technology**, and the **business field**.
 - I love solving problems with any element in technology I can get hold of, such as data. Trust me to mine treasure out of the messiest, unstructured data on the planet.
-- I am currently building PyLadies Tampere with 2 amazing ladies to empower women to thrive and lead in the Python community and technology at large. 
+- I am currently building PyLadies Tampere to empower women to thrive and lead in the Python community and technology at large. 
 - Ask me about data science, volunteering, hackathons, mentorship, open source and tech community building.
 
 
@@ -91,10 +91,22 @@ Organizer of PyLadies Tampere, a local community empowering women who code in Py
 ### EuroPython Contributor  
 Contributor and community volunteer at EuroPython.
 
+---
+
+### PyLadies Conference 2025 Program Co-Lead
+PyLadies Conference (PyLadiesCon) is the third PyLadies conference held– an exciting online and FREE event dedicated to empowerment, learning, and diversity within the Python community
+https://2025.conference.pyladies.com/en/#organization
+
 ## 📫 Let's connect: 
 [LinkedIn](https://www.linkedin.com/in/naa-ashiorkor-nortey-408240120/)
 [Twitter](https://twitter.com/N_Ashiorkor)
 [Instagram](https://www.instagram.com/n_ashiorkor_n)
+
+![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
+
+<h3>Naa Ashiorkor Nortey's GitHub Stats</h3>
+<img src="https://readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox" />
+
 
 <!--
 <h2> 🚀 &nbsp;Some Tools and Programming Languages I Have Used and Learned</h2>
@@ -128,10 +140,8 @@ Contributor and community volunteer at EuroPython.
           
 </p>
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7ashiorkor7&layout=compact)
 
-### Naa Ashiorkor Nortey's GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=7ashiorkor7&show_icons=true&theme=gruvbox"/> 
+
 
 <!--
 **7ashiorkor7/7ashiorkor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
